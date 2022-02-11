@@ -16,24 +16,24 @@ A paginaton egy endless recyclerview-val van megvalósítva.
 
 #### Felhasznált technológiák
 
-- Kotlin Coroutines: Lehetővé teszik az aszinkron kódok írását
+- Kotlin Coroutines
 
 - Hilt Dependency Injection
 
-- Timber: Loggolás, hibakezelés segítése
+- Timber: Loggolás
 
 - UI:
 
-  - OkHttp, Retrofit: Hálózati hívások
+  - OkHttp, Retrofit
 
-  - ConstraitLayout: Komplex felhasználó felületek elkészítésére
+  - ConstraitLayout
 
-  - SwipeRefreshLayout: Lista nézetek manuális frissítéséhez
+  - SwipeRefreshLayout
 
-  - RecyclerView: Elemek megjelenítése listában
+  - RecyclerView
 
-  - Glide: Képek betöltése internetről
+  - Glide
 
-  - NavigationDrawer: Elhúzható navigációs ablak
+  - NavigationDrawer
 
     
