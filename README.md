@@ -1,5 +1,7 @@
 # Ibm_rainbowcake
 
+JetCompose-zal készített verzió: https://github.com/mherczku/ibm_jetcompose
+
 #### **Feladat:**
 
 Egy API-ról lekért adatok listában és részletes nézetben történő megjelenítése.
@@ -22,9 +24,9 @@ A paginaton egy endless recyclerview-val van megvalósítva.
 
 - Timber: Loggolás
 
-- UI:
+- OkHttp, Retrofit
 
-  - OkHttp, Retrofit
+- UI:  
 
   - ConstraitLayout
 
